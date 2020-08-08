@@ -3,16 +3,25 @@
 
 ///Edit Under This
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyBPxJMUMVyR62GU3MW7gBam7O_7_FTXeok",
+  authDomain: "userlogin-5aa7f.firebaseapp.com",
+  databaseURL: "https://userlogin-5aa7f.firebaseio.com",
+  projectId: "userlogin-5aa7f",
+  storageBucket: "userlogin-5aa7f.appspot.com",
+  messagingSenderId: "967428708101",
+  appId: "1:967428708101:web:8b7cfd19ea847c088d896c",
+  measurementId: "G-C408RNWFS7"
 };
+
+
+
+
+ 
+
+
+
+
 
      
  
